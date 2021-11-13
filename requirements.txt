@@ -1,0 +1,12 @@
+pandas~=1.2.4
+numpy~=1.18.5
+
+matplotlib~=3.4.2
+seaborn=0.11.2
+plotly~=5.3.1
+
+scikit-learn~=0.20.4
+scipy~=1.6.2
+
+ipywidgets~=7.6.5
+jupyterlab_widgets~=1.0.2
